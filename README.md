@@ -27,6 +27,7 @@ This demo is created using ARKit 3:
 - Take a look at the demo below:
 
 ![alt text](https://thumbs.gfycat.com/DirtyWelcomeBuck-small.gif)
+![alt text](https://github.com/simformsolutions/Fitness-App-ARKit/blob/master/Workout_7.mp4)
 
 ### Copyright
 
