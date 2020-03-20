@@ -28,9 +28,9 @@ This demo is created using ARKit 3:
 
 ![alt text](https://thumbs.gfycat.com/DirtyWelcomeBuck-small.gif)
 
-![alt text](https://thumbs.gfycat.com/UncomfortableEquatorialAoudad-size_restricted.gif)
+![alt text](https://thumbs.gfycat.com/UncomfortableEquatorialAoudad-small.gif)
 
-![alt text](https://thumbs.gfycat.com/TautThriftyKestrel-size_restricted.gif)
+![alt text](https://thumbs.gfycat.com/TautThriftyKestrel-small.gif)
 
 ### Copyright
 
