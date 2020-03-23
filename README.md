@@ -30,6 +30,9 @@ This demo is created using ARKit 3:
 ![alt text](https://thumbs.gfycat.com/UncomfortableEquatorialAoudad-small.gif)
 ![alt text](https://thumbs.gfycat.com/TautThriftyKestrel-small.gif)
 
+### Credits
+- The Workout 3D models from [Mixamo.](https://www.mixamo.com/#/)
+
 ### Copyright
 
 Copyright © 2019 Simform. All Rights Reserved.
