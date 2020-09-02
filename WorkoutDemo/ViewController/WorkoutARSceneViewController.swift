@@ -55,7 +55,10 @@ class WorkoutARSceneViewController: UIViewController, ARSCNViewDelegate {
         sceneView.delegate = self
         sceneView.automaticallyUpdatesLighting = true
         sceneView.autoenablesDefaultLighting = true
-        configuration.frameSemantics.insert(.personSegmentation)
+        
+        if ARWorldTrackingConfiguration.supportsFrameSemantics(.personSegmentationWithDepth) {
+            configuration.frameSemantics.insert(.personSegmentation)
+        }
         setOverlay(automatically: true, forDetectionType: .horizontalPlane)
         
         // Set Screen title
